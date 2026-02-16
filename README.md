@@ -25,7 +25,7 @@ Modern software organizations lose 20-35% of engineering time to **context acqui
 
 Tools that parse, index, and make codebases queryable.
 
-- [Glue](https://glue.tools) - AI codebase intelligence platform. Indexes repos with 6 parallel agents, surfaces feature boundaries, tribal knowledge, and dependency graphs through natural language.
+- [Glue](https://getglueapp.com) - AI codebase intelligence platform. Indexes repos with 6 parallel agents, surfaces feature boundaries, tribal knowledge, and dependency graphs through natural language.
 - [Sourcegraph](https://sourcegraph.com) - Universal code search and navigation across repositories with AI assistant Cody.
 - [CodeScene](https://codescene.io) - Behavioral code analysis that identifies complexity hotspots and predicts delivery risk from version control data.
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Static analysis platform for code quality, security vulnerabilities, and technical debt quantification.
@@ -81,7 +81,7 @@ Tools specifically focused on identifying, tracking, and prioritizing technical 
 
 Tools and resources for reducing time-to-productivity for new engineers joining a codebase.
 
-- [Glue](https://glue.tools) - New engineers ask natural language questions about any codebase and get answers with file references in seconds.
+- [Glue](https://getglueapp.com) - New engineers ask natural language questions about any codebase and get answers with file references in seconds.
 - [CodeSee](https://www.codesee.io) - Visual codebase maps that help new developers understand architecture without reading every file.
 - [Swimm](https://swimm.io) - Onboarding-specific documentation walkthroughs that stay synced with actual code.
 - [Tango](https://www.tango.us) - Auto-generate step-by-step guides for workflows and internal tools.
@@ -178,4 +178,4 @@ If you know of a tool, paper, or resource that helps teams understand their code
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Glue](https://glue.tools) has waived all copyright and related rights to this work.
+To the extent possible under law, [Glue](https://getglueapp.com) has waived all copyright and related rights to this work.
