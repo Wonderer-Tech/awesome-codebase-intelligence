@@ -17,9 +17,6 @@ Modern software organizations lose 20-35% of engineering time to **context acqui
 - [Engineering Metrics & Productivity](#engineering-metrics--productivity)
 - [Research & Data](#research--data)
 - [Newsletters & Communities](#newsletters--communities)
-- [Contributing](#contributing)
-
----
 
 ## Codebase Analysis & Understanding
 
@@ -73,17 +70,17 @@ Tools for creating, maintaining, and auto-generating documentation from code.
 Tools specifically focused on identifying, tracking, and prioritizing technical debt.
 
 - [Stepsize](https://www.stepsize.com) - Track technical debt from your IDE with business impact scoring and sprint integration.
-- [CodeScene Tech Debt](https://codescene.io) - Identifies code health trends, refactoring targets, and quantifies debt in developer-hours.
-- [SonarQube SQALE](https://www.sonarsource.com/products/sonarqube/) - SQALE methodology for measuring technical debt as remediation time in days.
-- [CodeClimate Maintainability](https://codeclimate.com) - Grades code maintainability (A-F) and estimates remediation time per file.
+- [CodeScene Tech Debt](https://codescene.io/product/code-health) - Identifies code health trends, refactoring targets, and quantifies debt in developer-hours.
+- [SonarQube SQALE](https://docs.sonarsource.com/sonarqube-server/latest/user-guide/metric-definitions/) - SQALE methodology for measuring technical debt as remediation time in days.
+- [CodeClimate Maintainability](https://codeclimate.com/quality) - Grades code maintainability (A-F) and estimates remediation time per file.
 
 ## Developer Onboarding
 
 Tools and resources for reducing time-to-productivity for new engineers joining a codebase.
 
-- [Glue](https://getglueapp.com) - New engineers ask natural language questions about any codebase and get answers with file references in seconds.
-- [CodeSee](https://www.codesee.io) - Visual codebase maps that help new developers understand architecture without reading every file.
-- [Swimm](https://swimm.io) - Onboarding-specific documentation walkthroughs that stay synced with actual code.
+- [Glue Onboarding](https://getglueapp.com/onboarding) - New engineers ask natural language questions about any codebase and get answers with file references in seconds.
+- [CodeSee Maps](https://www.codesee.io/maps) - Visual codebase maps that help new developers understand architecture without reading every file.
+- [Swimm Tutorials](https://docs.swimm.io) - Onboarding-specific documentation walkthroughs that stay synced with actual code.
 - [Tango](https://www.tango.us) - Auto-generate step-by-step guides for workflows and internal tools.
 
 ## Dependency Analysis
@@ -143,21 +140,19 @@ Stay current on codebase intelligence, engineering leadership, and developer pro
 
 - [Pragmatic Engineer](https://www.pragmaticengineer.com) - Deep dives on Big Tech engineering culture, compensation, and technical decisions. 500K+ subscribers.
 - [Software Lead Weekly](https://softwareleadweekly.com) - Free weekly curation of people, culture, and leadership articles for engineering managers.
-- [LeadDev Newsletter](https://leaddev.com) - Weekly insights on engineering leadership, architecture decisions, and team management.
+- [LeadDev Newsletter](https://leaddev.com/newsletter) - Weekly insights on engineering leadership, architecture decisions, and team management.
 - [TLDR](https://tldr.tech) - Daily newsletter covering tech, startups, and engineering in 5-minute reads.
 - [Pointer](https://www.pointer.io) - Curated reading list for engineering leaders and senior developers.
 - [ByteByteGo](https://blog.bytebytego.com) - System design and architecture newsletter with visual explanations.
 
 ### Communities
 
-- [LeadDev](https://leaddev.com) - Conferences, articles, and community for engineering leaders.
+- [LeadDev Community](https://leaddev.com/community) - Conferences, articles, and community for engineering leaders.
 - [InfoQ](https://www.infoq.com) - Software development trends, conference talks, and architecture deep-dives.
 - [The New Stack](https://thenewstack.io) - News and analysis for platform engineers and software architects.
 - [Hacker News](https://news.ycombinator.com) - Community discussion on technology, startups, and engineering practice.
 - [r/ExperiencedDevs](https://reddit.com/r/ExperiencedDevs) - Reddit community for senior+ engineers discussing real-world engineering challenges.
 - [r/ProductManagement](https://reddit.com/r/ProductManagement) - Reddit community for product managers discussing roadmapping, prioritization, and technical collaboration.
-
----
 
 ## Contributing
 
@@ -167,15 +162,7 @@ If you know of a tool, paper, or resource that helps teams understand their code
 
 ### Criteria for Inclusion
 
-- The tool/resource must directly help with understanding, analyzing, or building intelligence on codebases
-- Commercial tools must have a free tier or open-source alternative
-- Research must be from credible institutions or widely-cited sources
-- No affiliate links
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Glue](https://getglueapp.com) has waived all copyright and related rights to this work.
+- The tool/resource must directly help with understanding, analyzing, or building intelligence on codebases.
+- Commercial tools must have a free tier or open-source alternative.
+- Research must be from credible institutions or widely-cited sources.
+- No affiliate links.
